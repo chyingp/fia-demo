@@ -1,0 +1,14 @@
+{
+    "path": "edu/moblieapp",
+    "cdnRoot": {
+        "js": "7.url.cn",
+        "css": "8.url.cn",
+        "img": "9.url.cn"
+    },
+    "htdocs": "ke.qq.com/mobileapp",
+    "packSrc": [{
+        "include": "**/*.html",
+        "to": "ke.qq.com/mobileapp"
+    }],
+    "jsNoWrap": "**/mod.js"
+}
